@@ -1,0 +1,109 @@
+
+[
+{
+"id": 1,
+"title": "Riding Cities",
+"description": "Réalisation d’un site de voyage.",
+"image": "/assets/images/ridding-cities.png",
+"skill" : ["Organiser correctement sa page web selon les bonnes pratiques html","","",""],
+"technologies": ["HTML", "CSS"],
+"website": "",
+"githubLink":" https://github.com/JuliaKardelice/Ridding-Cities.git",
+"plot" : "Riding Cities, association de skate, souhaite acgtualiser la page de son site en créant une nouvelle section sur leurs membres fondateurs et proposants deux plannings à télécharger. Ce projet était une première initiation qui nécessitait de développer du code html à partir d'un fichier déjà existant et un fichier de style CSS déjà en place"
+
+},
+{
+"id": 2,
+"title": "Booki",
+"description": "Création d'une page d'accueil web pour une agence de voyage'",
+"image": "/assets/images/booki.png",
+"skill" : ["Concevoir un l'architecture d'un site à partir d' une maquette figma"," Mettre en place le stye de son site via le langage CSS","endre son site web responsive"],
+"technologies": ["Javascript"],
+"website": "https://juliakardelice.github.io/P3_OC_BOOKI_ROYER_Julia/",
+"githubLink": "https://github.com/JuliaKardelice/P3_OC_BOOKI_ROYER_Julia",
+"plot" : "L'entreprise Booki souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix. Le but de se projet est de se familiariser avec le language CSS, base fondamentale pour un développeur font-end"},
+{
+"id": 3,
+"title": "Ohmyfood",
+"description": " Développer l'interface mobile-first du site d’une start-up de restauration",
+"image": "/assets/images/ohmyfood.png",
+"skill" : ["Concevoir une application multipages","Utilisation de SASS pour le style de son application","Créer des animations, des effets de transitions pour améliorer l'expérience utilisateur"],
+"technologies": ["CSS", "SASS"],
+"website": "https://juliakardelice.github.io/Ohmyfood/",
+"githubLink": "https://github.com/JuliaKardelice/Ohmyfood.git",
+"plot" : "Riding Cities, association de skate, souhaite acgtualiser la page de son site en créant une nouvelle section sur leurs membres fondateurs et proposants deux plannings à télécharger. Ce projet était une première initiation qui nécessitait de développer du code html à partir d'un fichier déjà existant et un fichier de style CSS déjà en place"
+
+},
+{
+"id": 4,
+"title": "Print-It",
+"description": "Dynamiser la page web d'une entreprise d'impression",
+"image": "/assets/images/print_it.png",
+"skill" : ["Utiliser javascript pour avoir des fonctionnalités plus complexes sur son site"],
+"technologies": ["HTML","Javascript"],
+"website": "https://juliakardelice.github.io/Projet-5-Print-it/s",
+"githubLink": "https://github.com/JuliaKardelice/Ohmyfood.git",
+"plot" : "Riding Cities, association de skate, souhaite acgtualiser la page de son site en créant une nouvelle section sur leurs membres fondateurs et proposants deux plannings à télécharger. Ce projet était une première initiation qui nécessitait de développer du code html à partir d'un fichier déjà existant et un fichier de style CSS déjà en place"
+
+},
+{
+"id": 5,
+"title": "Sophie Bluel Portfolio",
+"description": "Création du backend d'un site de notation de livres et gestion de la base de données",
+"image":"/assets/images/sophie_bluel.png",
+"skill" : ["Concevoir une application en intégrant des fonctionnalités plus complexes avec Javascript","Mettre en place un système de connexion d'utilisateur pour son site Web","Intégrer le backend de son site web ",
+"Utiliser les APIrestfull pour effectuer des requètes serveur","Mettre en place des fonctionnalités d'ajout et de gestion de contenus (ajout de projet, upload d'images)"],
+"technologies": ["Node", "Javascript", "APIrest"],
+"website": "",
+"githubLink": "https://github.com/JuliaKardelice/Projet_6_openclassroom",
+"plot" : "Le but ici est de concevoir un site Portfolio où l'utilisateur peux se connecter, on apprends ici à intéragir avec un back-end, et à faire des requète API. Le site comprends un système ou l'utilisateur peut uploader du contenu sur son compte"
+
+},
+{
+"id": 6,
+"title": "Portfolio de Nina Carducci",
+"description": "Augmenter l'accessibilité et les performances d'un site de photographie",
+"image": "/assets/images/nina_carducci.png",
+"skill" : ["SEO", "Accessibilité"],
+"technologies": ["Lighthouse", "Wave","Debugger"],
+"website": "https://juliakardelice.github.io/Projet-8-Op--Nina-carducci/",
+"githubLink": "https://github.com/JuliaKardelice/Projet-8-Op--Nina-carducci",
+"plot" : "Riding Cities, association de skate, souhaite acgtualiser la page de son site en créant une nouvelle section sur leurs membres fondateurs et proposants deux plannings à télécharger. Ce projet était une première initiation qui nécessitait de développer du code html à partir d'un fichier déjà existant et un fichier de style CSS déjà en place"
+
+},
+{
+"id": 7,
+"title": "724events",
+"description": "Debbuger le site d'une agence événementielle",
+"image": "/assets/images/724events.png",
+"skill" : ["S'assurer du bon fonctionnement du site en corrigeant les erreurs","utiliser les test unitaires et d'intégration","Utiliser Wave ou le debugger"],
+"technologies": ["React Dev Tools", "Lighthouse", "Wave"],
+"website": "",
+"githubLink": "https://github.com/JuliaKardelice/Op_debug.git",
+"plot" : "724events est un site d'agence évennementielle, cependant le site comporte quelques bug. Le but de se projet est de résoudre ces bugs en utilisant notamment des tests unitaires."
+
+},
+{
+"id": 8,
+"title": "Argent Bank",
+"description": "Création d'une application web bancaire en utilisant REACT/REDUX",
+"image": "/assets/images/argent-bank.png",
+"technologies": ["React","Redux","Axios","Node", "Express", "MongoDB","Swagger"],
+"website": "",
+"githubLink": "https://github.com/JuliaKardelice/P10-argent-bank",
+"plot" : "Riding Cities, association de skate, souhaite acgtualiser la page de son site en créant une nouvelle section sur leurs membres fondateurs et proposants deux plannings à télécharger. Ce projet était une première initiation qui nécessitait de développer du code html à partir d'un fichier déjà existant et un fichier de style CSS déjà en place"
+
+},
+{
+"id": 9,
+"title": "Menu Maker by Qwenta",
+"description": "Planifiez le développement du site en se familarisant avec les methodes de travail agiles",
+"image": "/assets/images/ridding-cities.png",
+"skill" : ["Gérer l'organisation de son travail via les méthodes de travail agiles","Mettre en place un système de veille","Utiliser un Kanban avec des Users Stories"],
+"technologies": ["Kanban", "Feedly"],
+"website": "",
+"githubLink": "",
+"plot" : "Riding Cities, association de skate, souhaite acgtualiser la page de son site en créant une nouvelle section sur leurs membres fondateurs et proposants deux plannings à télécharger. Ce projet était une première initiation qui nécessitait de développer du code html à partir d'un fichier déjà existant et un fichier de style CSS déjà en place"
+
+}
+]
